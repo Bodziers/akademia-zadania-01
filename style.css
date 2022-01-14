@@ -1,6 +1,7 @@
 /*Typography*/
 html {
     font: 16px 'Open Sans Condensed', 'Roboto Condensed', Verdana, sans-serif;
+
 }
 h1 {
     font-size: 2.25em;
@@ -310,4 +311,7 @@ footer a:focus, footer a:hover {
 }
 .copy {
     font-size: 0.85em;
+}
+li {
+    list-style: none
 }
